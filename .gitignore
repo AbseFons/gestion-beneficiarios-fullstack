@@ -1,0 +1,15 @@
+# --- .NET / C# ---
+bin/
+obj/
+.vs/
+*.user
+*.suo
+appsettings.Development.json
+
+# --- React / Frontend ---
+node_modules/
+dist/
+build/
+.env
+.env.local
+.DS_Store
